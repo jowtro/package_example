@@ -1,2 +1,6 @@
-# package_example
-A example how to build a package
+# Example Package
+
+This is a simple example package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown
+# Package Tutorial
+https://packaging.python.org/tutorials/packaging-projects/
